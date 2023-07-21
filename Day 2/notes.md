@@ -63,9 +63,9 @@ Will use an integer and round to the main number
 
 print(round(52 // 6)) = 8
 
-
 ---
-putting the math symbol before the = in a variable will do whatever I want to that variable
+
+putting the "math" symbol before the = in a variable will do whatever I want to that variable
 
 variable plus=1
 
