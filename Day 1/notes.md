@@ -20,7 +20,7 @@ print("Hello" + " " + "Josh")
 
 Variables cannot start with a number.
 
-Priv words like print and length are not allowed for variables
+Priveldged words like "print" and "length" are not allowed for variables
 
 ### Terms
 
