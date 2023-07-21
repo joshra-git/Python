@@ -40,15 +40,16 @@ This will convert it from an int to a str
 
 ### Different math stuff
 
-\+ - \* / = they do pretty much what you would expect
+\+ - \* = they do pretty much what you would expect
 
 ** will do "to the power of"
 
-PEMDAS
-()
-** - exponents 
-\* /
-\+ -
+### PEMDAS - parentheses, exponents, multiplication, division, addition, and subtraction
+
+- \()
+- \** - exponents 
+- \* /
+- \+ -
 
 print(3 * 3 + / 3 - 3)
 
