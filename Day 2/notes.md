@@ -1,3 +1,7 @@
+# Notes
+
+### Types of data sets in Python
+
 **Float** = Floating Point Number
 
 3.14159 = float
@@ -36,15 +40,15 @@ This will convert it from an int to a str
 
 ### Different math stuff
 
-+ - * / = they do pretty much what you would expect
+\+ - \* / = they do pretty much what you would expect
 
 ** will do "to the power of"
 
 PEMDAS
 ()
 ** - exponents 
-* /
-+ -
+\* /
+\+ -
 
 print(3 * 3 + / 3 - 3)
 
