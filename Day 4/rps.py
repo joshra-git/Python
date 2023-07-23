@@ -39,9 +39,6 @@ else:
         print("It's a draw")
 
 
-## This is because I couldn't get it to work properly, however her method was floored and I find mine actually has more logic 
-## as it takes into consideration that the choice needs to be equal to the value in order to win 
-## and also prints out the asci image properly.
 # if computer == choice_paper:
 #     if player == choice_scissors:
 #         print(f"You picked\n")
