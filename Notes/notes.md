@@ -12,3 +12,15 @@ git commit -m "pushing" -a = this will push everything through
 ### pushing to main / branch
 git push origin main = this will push those changes to the repo
 
+
+### for loops
+
+I don't need to set a variable for a for loop
+for jump in range(6):
+    jumps()
+
+vs. 
+
+jumping = range(6)
+for jump in jumping:
+    jumps()
