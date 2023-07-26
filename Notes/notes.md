@@ -24,3 +24,9 @@ vs.
 jumping = range(6)
 for jump in jumping:
     jumps()
+
+
+Here is some text that you want to annotate[^1].
+
+
+[^1]: This is the annotation or additional information that explains the text.
